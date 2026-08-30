@@ -1,3 +1,5 @@
+<img src="cover.png" alt="cover" style="width: 100%;"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Sanjam Bhardwaj
