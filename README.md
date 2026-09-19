@@ -18,8 +18,8 @@
   <a href="https://github.com/sudosanjam">
     <img src="https://img.shields.io/badge/GitHub-sudosanjam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-    <a href="https://github.com/sudosanjam">
-    <img src="https://img.shields.io/badge/GitHub-sudosanjam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://sudosanjam.vercel.app">
+    <img src="https://img.shields.io/badge/Website-sudosanjam.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
 </p>
 
