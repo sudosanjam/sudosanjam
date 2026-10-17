@@ -121,7 +121,6 @@
 - Process & service management
 - File permissions
 - System logs
-- `grep`, `awk`, `sed`
 - Networking utilities
 - System troubleshooting
 - Automation
